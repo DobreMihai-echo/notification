@@ -72,17 +72,9 @@
 				<configuration>
 					<from>
 						<image>openjdk:11</image>
-						<auth>
-							<username>hiluminatul</username>
-							<password>Ghostblade123!</password>
-						</auth>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/hiluminatul/notification-service</image>
-						<auth>
-							<username>hiluminatul</username>
-							<password>Ghostblade123!</password>
-						</auth>
+						<image>${REPO_URL}/notification-service</image>
 						<tags>${project.version}</tags>
 					</to>
 				</configuration>

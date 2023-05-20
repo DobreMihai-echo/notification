@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: notification-service
-        image: hiluminatul/notification-service
+        image: IMAGE_URL/notification-service
         resources:
           limits:
             memory: "128Mi"
